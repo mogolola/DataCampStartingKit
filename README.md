@@ -2,7 +2,13 @@
 
 Authors: Mo YANG, Shuopeng WANG, Zizhao LI & Qixiang PENG
 
- Agricultural monitoring, in particular in developing countries, can help prevent famine and support humanitarian efforts. A central challenge is yield estimation, which is to pre- dict crop yields before harvesting. Remote sensing, on the other hand, is a globally available and economical data source that has recently garnered much interest. These multi-spectral remote sensing images, which include additional information besides the traditional visible wavelengths (RGB) and have fairly high spatial and temporal resolution, contain a wealth of information on vegetation growth and thus on agricultural outcomes.
+ Agricultural monitoring, in particular in developing countries, can help prevent famine and support humanitarian efforts. A central challenge is yield estimation, which is to pre- dict crop yields before harvesting. 
+ 
+ Remote sensing, on the other hand, is a globally available and economical data source that has recently garnered much interest. 
+ 
+ These multi-spectral remote sensing images, which include additional information besides the traditional visible wavelengths (RGB) and have fairly high spatial and temporal resolution, contain a wealth of information on vegetation growth and thus on agricultural outcomes.
+ 
+ 
  The challenge in this RAMP is to design an algorithm to automatically predict crop yield based on remote sensing data.
 
 #### Set up
