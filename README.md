@@ -2,7 +2,7 @@
 
 Authors: Mo YANG, Shuopeng WANG, Zizhao LI & Qixiang PENG
 
- Agricultural monitoring, in particular in developing countries, can help prevent famine and support humanitarian efforts. A central challenge is yield estimation, which is to pre- dict crop yields before harvesting. 
+ Agricultural monitoring, in particular in developing countries, can help prevent famine and support humanitarian efforts. A central challenge is yield estimation, which is to predict crop yields before harvesting. 
  
  Remote sensing, on the other hand, is a globally available and economical data source that has recently garnered much interest. 
  
